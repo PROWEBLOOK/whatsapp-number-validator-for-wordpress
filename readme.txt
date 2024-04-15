@@ -50,10 +50,7 @@ We are committed to protect your data and your privacy when processing personal 
 We do not process or store phone numbers for any purpose other than validation.
 We do not share any client data with any third party at any time.
 We keep all data supplied by clients for the purposes of validation as confidential, to not disclose data to anyone within our organization without a need to receive it for the specific purpose for which its is being disclosed to us, and to not disclose this data to any third party.
- 
-Wa-Validator is a service operated by Proweblook, a company located in Germany and operating according to EU General Data Protection Regulation (GDPR) standards and the German Federal Data Protection Act (BDSG) - one of the strictest data protection and privacy legislations in the world (see http://en.wikipedia.org/wiki/Bundesdatenschutzgesetz for details). 
 
-Personal data according to the German Federal Data Protection Act means any information concerning the personal or material circumstances of an identified or identifiable individual. This includes your name and address but also data like your phone number and email address. All data is subject to a special protection in accordance with the German Federal Data Protection Act and other legal provisions which we enforce using both technical methods and strict company processes.
 
 = Do you store validated phone numbers? =
 
