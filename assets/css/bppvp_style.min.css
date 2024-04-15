@@ -1,0 +1,20 @@
+.settings_page_Proweblook_wa_validator .prowa-card {
+    background-image: url(../img/Proweblook_logo_298.gif);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    padding-bottom: 40px
+}
+
+#prowa-list span {
+    float: right
+}
+
+.prowa-loading.settings_page_Proweblook_wa_validator .prowa-card {
+    background-image: url(../img/Proweblook_logo_298_working.gif)
+}
+
+.prowa-loading-mail {
+    background-image: url(../img/ajax-loader.gif)!important;
+    background-repeat: no-repeat!important;
+    background-position: center right!important
+}
